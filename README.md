@@ -13,7 +13,7 @@ This can also be done from RStudio and is much simpler. For generating an SSH ke
 
 ![Global Options... popup window](https://support.rstudio.com/hc/en-us/article_attachments/203718287/Screen_Shot_2015-11-09_at_4.59.40_PM.png)
 
-Please do note that when using SSH key pairs for login, the link to your git repository should be the SSH link and not the HTTPS link. This can be easily obtained by selecting *Use SSH* when cloning as shown in the image below. SSH URLs look like git@github.com:user1/repo1.git and HTTPS will look like https://github.com/user1/repo1.git.
+Please do note that when using SSH key pairs for login, the link to your git repository should be the SSH link and not the HTTPS link. This can be easily obtained by selecting *Use SSH* when cloning as shown in the image below. SSH URLs look like `git@github.com:user1/repo1.git` and HTTPS will look like `https://github.com/user1/repo1.git`.
 
 ![Remote URLs](https://help.github.com/assets/images/help/repository/remotes-url.png)
 
